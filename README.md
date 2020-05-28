@@ -30,7 +30,7 @@ other wise skips that empty
 **Delete**
 if action is delete then click on record and proceed with click on delete button.
 
-This functions result are again stored in datafile "Result" column again. It helps to finds result to unknown/untechnique person who run this automation.
+**This functions result are again stored in datafile "Result" column again.** It helps to finds result to unknown/untechnique person who run this automation.
 
 
 
