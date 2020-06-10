@@ -6,7 +6,7 @@
       <class name="tests.AppTest">
         <methods>
           <include name="tearDown"/>
-          <include name="OpenBaseApp" invocation-numbers="7"/>
+          <include name="OpenBaseApp"/>
           <include name="setUp"/>
         </methods>
       </class> <!-- tests.AppTest -->
